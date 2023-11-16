@@ -1,0 +1,16 @@
+* 
+section, div, h1, h2, h3, h4, img, a, p {
+     border: 1px solid rgb(200,200,200);
+}
+
+.pb-60p {
+    padding-bottom: 60%;
+}
+
+.pb-50p {
+    padding-bottom: 50%;
+}
+
+.pb-100p {
+    padding-bottom: 100%;
+}
